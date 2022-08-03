@@ -7,7 +7,8 @@ public class PrimeiraClasseJava {
 	 
 		/*Escreve o texto no console*/
 		System.out.println("Meu primeiro programa em java");
-        System.out.println("Meu primeiro passo a FULL STACK");	
+        System.out.println("Meu primeiro passo a FULL STACK");
+        System.out.println("Iniciação Java");
 	}
 	
 	
