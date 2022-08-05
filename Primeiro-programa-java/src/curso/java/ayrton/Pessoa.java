@@ -5,6 +5,16 @@ public class Pessoa {
 	private string nome;
 
 	private string sobrenome;
+	
+	private string idade;
+
+	public string getIdade() {
+		return idade;
+	}
+
+	public void setIdade(string idade) {
+		this.idade = idade;
+	}
 
 	public string getNome() {
 		return nome;
@@ -13,7 +23,7 @@ public class Pessoa {
 	public void setNome(string nome) {
 		this.nome = nome;
 	}
-
+	
 	public string getSobrenome() {
 		return sobrenome;
 	}
