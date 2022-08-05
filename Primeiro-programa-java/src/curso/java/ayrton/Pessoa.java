@@ -25,11 +25,11 @@ public class Pessoa {
 		this.nome = nome;
 	}
 	
-	public string getSobrenome() {
+	public String getSobrenome() {
 		return sobrenome;
 	}
 
-	public void setSobrenome(string sobrenome) {
+	public void setSobrenome(String sobrenome) {
 		this.sobrenome = sobrenome;
 	}
 	
