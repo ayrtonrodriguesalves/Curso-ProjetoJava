@@ -2,25 +2,26 @@ package curso.java.ayrton;
 
 public class Pessoa {
 
-	private string nome;
 
-	private string sobrenome;
+	private String nome;
+
+	private String sobrenome;
 	
-	private string idade;
+	private String idade;
 
-	public string getIdade() {
+	public String getIdade() {
 		return idade;
 	}
 
-	public void setIdade(string idade) {
+	public void setIdade(String idade) {
 		this.idade = idade;
 	}
 
-	public string getNome() {
+	public String getNome() {
 		return nome;
 	}
 
-	public void setNome(string nome) {
+	public void setNome(String nome) {
 		this.nome = nome;
 	}
 	
@@ -35,7 +36,6 @@ public class Pessoa {
 	
 	
 	
-	
-	
+		
 
 }
