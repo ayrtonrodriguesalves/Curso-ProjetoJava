@@ -11,6 +11,15 @@ public class Pessoa {
 	
 	private int dataCadastro;
 	
+	private String CPF; 
+	public String getCPF() {
+		return CPF;
+	}
+
+	public void setCPF(String cPF) {
+		CPF = cPF;
+	}
+
 	public int getDataNascimento() {
 		return dataNascimento;
 	}
